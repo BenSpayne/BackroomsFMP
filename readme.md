@@ -8,8 +8,8 @@ Controls:
 - A = Left 
 - D = Right
 
-Shift = Sprint
-E = Interact
-F = Flashlight
+- Shift = Sprint
+- E = Interact
+- F = Flashlight
 
 <img width="100%" alt="Business Card Front" src="https://github.com/user-attachments/assets/1adc2977-dc96-479f-88ba-7eb712f71b42" />
