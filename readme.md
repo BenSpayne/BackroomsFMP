@@ -3,10 +3,10 @@
 A 3D Unity game project based on the online fictional concept The Backrooms.
 
 Controls:
-W = Forward
-S = Backward
-A = Left 
-D = Right
+- W = Forward
+- S = Backward
+- A = Left 
+- D = Right
 
 Shift = Sprint
 E = Interact
