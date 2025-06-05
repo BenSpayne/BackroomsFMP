@@ -1,3 +1,3 @@
-# backrooms
+# The Backrooms: Liminal Laybrinth
 
-a game about
+A 3D Unity game project based on the online fictional concept The Backrooms.
